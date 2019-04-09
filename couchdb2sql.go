@@ -20,7 +20,7 @@ const (
 	DB_USER     = "postgres"
 	DB_PASSWORD = "123qweasd"
 	DB_NAME     = "mahery"
-	PORT        = "5000"
+	PORT        = "5432"
 	RELPATH     = "./"
 	SCHEMA      = "mahery"
 	LIMIT       = 1000
